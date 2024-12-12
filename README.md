@@ -1,6 +1,3 @@
-# prodigy-project-1
-
-
 # House Price Prediction using Linear Regression
 
 This project implements a linear regression model to predict house prices based on the square footage, number of bedrooms, and number of bathrooms. The model is developed using Python and popular machine learning libraries.
@@ -35,7 +32,7 @@ Predicting house prices is a crucial aspect of real estate analysis. By leveragi
 ## Installation
 1. Clone the repository:
    bash
-   git clone https:https://github.com/buvan1234/prodigy-project-1
+   git clone https://github.com/buvan1234/PRODIGY_ML_01
    
 2. Create and activate a virtual environment:
    bash
